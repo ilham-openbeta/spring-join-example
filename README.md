@@ -1,0 +1,1 @@
+Configure application.yml to setup the database 
